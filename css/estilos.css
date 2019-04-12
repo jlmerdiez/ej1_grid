@@ -54,6 +54,7 @@ table {
 }
 .item3 {
   grid-area: main;
+  height: 76vh;
 }
 .item4 {
   grid-area: right;
